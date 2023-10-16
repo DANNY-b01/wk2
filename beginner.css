@@ -1,0 +1,16 @@
+*{
+    color:blue;
+}
+p{
+    color: green;
+}
+main p{
+    color: purple;
+}
+main > p{
+    color:aqua;
+}
+h2,h1{
+    background-color:black;
+}
+

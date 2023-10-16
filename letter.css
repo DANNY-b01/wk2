@@ -1,0 +1,25 @@
+h2{
+   color: crimson; 
+}
+h2~p{
+    background-color: magenta;
+}
+address{
+    color: blue;
+}
+section{
+    color: blue;
+}
+
+li>{
+    background-color: blue;
+}
+dl>dd{
+    background-color: cyan;
+}
+
+
+
+
+
+
